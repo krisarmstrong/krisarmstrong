@@ -1,9 +1,10 @@
 # Kris Armstrong, CISSP
 ## Senior Systems Engineer
 
-### Miscalanous GISTS
-
 ### Python Projects
+
+### Github Gist
+
 ### Cybersecurity Projects
 
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
