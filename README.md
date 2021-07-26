@@ -16,8 +16,8 @@
 [![iPadOS](https://img.shields.io/badge/iPad-OS-292e33?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/ipados/)
 [![iOS](https://img.shields.io/badge/iOS-292e33?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu)](https://www.ubuntu.com)
-[![centOS](https://img.shields.io/badge/centos-000?style=flat&logo=centos&logoColor=blue)](https://www.centos.org/)
-[![windows](https://img.shields.io/badge/windows-000?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/windows/)
+[![centOS](https://img.shields.io/badge/CentOS-000?style=flat&logo=centos&logoColor=blue)](https://www.centos.org/)
+[![windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/windows/)
 
 ### Networking
 
