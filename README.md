@@ -2,8 +2,11 @@
 ## Senior Systems Engineer
 
 ### Python Projects
+[![Python-Projects](https://img.shields.io/badge/-My_Python_Projects-000?&logo=Python)](https://github.com/krisarmstrong?tab=repositories)
 
 ### Github Gist
+[![Python-Projects](https://img.shields.io/badge/-My_Github_Gists-000?&logo=github)](https://gist.github.com/krisarmstrong)
+
 
 ### Cybersecurity Projects
 
