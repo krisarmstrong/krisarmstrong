@@ -1,5 +1,5 @@
 # Kris Armstrong, CISSP
-Senior Systems Engineer, 
+## Senior Systems Engineer, 
 
 ### Cybersecurity Projects
 
@@ -9,6 +9,18 @@ Senior Systems Engineer,
 [![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
 [![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+
+### Operating System
+
+[![macOS](https://img.shields.io/badge/macOS-292e33?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=flat&logo=ubuntu)](https://www.ubuntu.com)
+[![centOS](https://img.shields.io/badge/centos-white?style=flat&logo=centos&logoColor=blue)](https://www.centos.org/)
+
+
+### Tools
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
 
 ### Languages
 
@@ -27,6 +39,11 @@ Senior Systems Engineer,
 
 ### Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-kris.armstronga@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris.armstrong@gmail.com)](mailto:kris.armstrong@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-KrisArmstrong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krisarmstrong/)](https://www.linkedin.com/in/kris-armstrong/)
+[![Gmail Badge](https://img.shields.io/badge/-G--Mail-red?style=flat&logo=gmail&labelColor=white&link=mailto:kris.armstrong@gmail.com)](mailto:kris.armstrong@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kris-armstrong/)
+[![YouTube](https://img.shields.io/youtube/channel/views/UCGplG9LjItnQ4S6wITgdJ7A?style=social)](https://www.youtube.com/channel/UCGplG9LjItnQ4S6wITgdJ7A)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/krisarmstrong)](https://github.com/krisarmstrong)
+
+
+
 
