@@ -54,6 +54,4 @@
 [![YouTube](https://img.shields.io/youtube/channel/views/UCGplG9LjItnQ4S6wITgdJ7A?style=social)](https://www.youtube.com/channel/UCGplG9LjItnQ4S6wITgdJ7A)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/krisarmstrong)](https://github.com/krisarmstrong)
 
-
-
-
+[![Kris Armstrong GitHub stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=dark))]
