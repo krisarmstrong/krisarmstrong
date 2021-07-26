@@ -29,8 +29,9 @@
 
 ### Tools
 
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/IDE-Xcode-%23007ACC?style=flat&logo=xcode)](https://developer.apple.com/support/xcode/)
 
 ### Languages
 
@@ -53,5 +54,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kris-armstrong/)
 [![YouTube](https://img.shields.io/youtube/channel/views/UCGplG9LjItnQ4S6wITgdJ7A?style=social)](https://www.youtube.com/channel/UCGplG9LjItnQ4S6wITgdJ7A)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/krisarmstrong)](https://github.com/krisarmstrong)
+
+### GitHub Stats
 
 [![Kris Armstrong GitHub stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=dark))]
