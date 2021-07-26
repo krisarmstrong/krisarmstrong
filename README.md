@@ -1,5 +1,5 @@
 # Kris Armstrong, CISSP
-## Senior Systems Engineer, 
+## Senior Systems Engineer
 
 ### Cybersecurity Projects
 
@@ -13,14 +13,24 @@
 ### Operating System
 
 [![macOS](https://img.shields.io/badge/macOS-292e33?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=flat&logo=ubuntu)](https://www.ubuntu.com)
-[![centOS](https://img.shields.io/badge/centos-white?style=flat&logo=centos&logoColor=blue)](https://www.centos.org/)
+[![iPadOS](https://img.shields.io/badge/iPad-OS-292e33?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/ipados/)
+[![iOS](https://img.shields.io/badge/iOS-292e33?style=flat&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu)](https://www.ubuntu.com)
+[![centOS](https://img.shields.io/badge/centos-000?style=flat&logo=centos&logoColor=blue)](https://www.centos.org/)
+[![windows](https://img.shields.io/badge/windows-000?style=flat&logo=windows&logoColor=blue)](https://www.microsoft.com/windows/)
 
+### Networking
+
+[![Cisco](https://img.shields.io/badge/Cisco-000?style=flat&logo=cisco)](https://www.cisco.com)
+[![Aruba Networks](https://img.shields.io/badge/Aruba-000?style=flat&logo=HP)](https://www.arubanetworks.com)
+[![Juniper Networks](https://img.shields.io/badge/Juniper-000?style=flat&logo=junipernetworks)](https://www.junipernetworks.com)
+[![Mist Networks](https://img.shields.io/badge/Mist-000?style=flat&logo=junipernetworks)](https://mist.com/)
+[![Ubiquiti](https://img.shields.io/badge/Ubiquiti-000?style=flat&logo=ubiquiti&logoColor=blue)](https://ui.com)
 
 ### Tools
+
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-
 
 ### Languages
 
