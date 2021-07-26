@@ -2,7 +2,8 @@
 ## Senior Systems Engineer
 
 ### My GISTS & Projects
-https://gist.github.com/krisarmstrong/public
+[![Gists](https://gist.github.com/krisarmstrong/public)]
+[![My Projects](https://github.com/krisarmstrong?tab=repositories)]
 
 
 ### Cybersecurity Projects
