@@ -4,34 +4,34 @@
 ---
 
 ### 🏅 **Licenses & Certifications**  
-- <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="25"/> **Deep Dive into Open-Source Intelligence**</a>  
+- <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="20"/> **Deep Dive into Open-Source Intelligence**</a>  
   *Issued by LinkedIn | April 2024*
 
-- <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="25"/> **Learning Cloud Computing: Core Concepts**</a>  
+- <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="20"/> **Learning Cloud Computing: Core Concepts**</a>  
   *Issued by LinkedIn | April 2024*
 
-- <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="25"/> **Learning Threat Intelligence**</a>  
+- <a href="https://www.linkedin.com/learning/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="20"/> **Learning Threat Intelligence**</a>  
   *Issued by LinkedIn | April 2024*
 
-- <a href="https://www.cwnp.com/certifications/cwdp"><img src="https://www.cwnp.com/wp-content/uploads/2020/01/CWNP-logo-150x150.png" alt="CWNP Logo" width="25"/> **Certified Wireless Design Professional (CWDP)**</a>  
+- <a href="https://www.cwnp.com/certifications/cwdp"><img src="https://www.cwnp.com/wp-content/uploads/2020/01/CWNP-logo-150x150.png" alt="CWNP Logo" width="20"/> **Certified Wireless Design Professional (CWDP)**</a>  
   *Issued by CWNP | October 2023 - October 2026*  
   *Credential ID: 795841*
 
-- <a href="https://www.cwnp.com/certifications/cwsp"><img src="https://www.cwnp.com/wp-content/uploads/2020/01/CWNP-logo-150x150.png" alt="CWNP Logo" width="25"/> **Certified Wireless Security Professional (CWSP)**</a>  
+- <a href="https://www.cwnp.com/certifications/cwsp"><img src="https://www.cwnp.com/wp-content/uploads/2020/01/CWNP-logo-150x150.png" alt="CWNP Logo" width="20"/> **Certified Wireless Security Professional (CWSP)**</a>  
   *Issued by CWNP | September 2023 - September 2026*  
   *Credential ID: 795841*
 
-- <a href="https://www.cwnp.com/certifications/cwna"><img src="https://www.cwnp.com/wp-content/uploads/2020/01/CWNP-logo-150x150.png" alt="CWNP Logo" width="25"/> **Certified Wireless Network Administrator (CWNA)**</a>  
+- <a href="https://www.cwnp.com/certifications/cwna"><img src="https://www.cwnp.com/wp-content/uploads/2020/01/CWNP-logo-150x150.png" alt="CWNP Logo" width="20"/> **Certified Wireless Network Administrator (CWNA)**</a>  
   *Issued by CWNP | January 2023 - September 2026*  
   *Credential ID: 795841*
 
-- <a href="https://www.isc2.org/Certifications/CISSP"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/ISC2_logo.png" alt="ISC2 Logo" width="25"/> **(ISC)² Certified Information Systems Security Professional (CISSP)**</a>  
+- <a href="https://www.isc2.org/Certifications/CISSP"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/ISC2_logo.png" alt="ISC2 Logo" width="20"/> **(ISC)² Certified Information Systems Security Professional (CISSP)**</a>  
   *Issued by (ISC)² | January 2021*
 
-- <a href="https://www.cisco.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cisco_logo.svg" alt="Cisco Logo" width="25"/> **Cisco Certified Network Professional (CCNP)**</a>  
+- <a href="https://www.cisco.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cisco_logo.svg" alt="Cisco Logo" width="20"/> **Cisco Certified Network Professional (CCNP)**</a>  
   *Issued by Cisco | January 2002 - January 2015*
 
-- <a href="https://www.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="25"/> **Microsoft Certified Systems Engineer: Windows 2000 Server (MCSE)**</a>  
+- <a href="https://www.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="20"/> **Microsoft Certified Systems Engineer: Windows 2000 Server (MCSE)**</a>  
   *Issued by Microsoft | January 2000 - January 2009*
 
 ---
