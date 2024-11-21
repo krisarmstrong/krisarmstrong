@@ -27,34 +27,43 @@ Hello! I'm **Kris Armstrong**, a highly experienced **Senior Systems Engineer** 
 ### 🏅 **Licenses & Certifications**
 
 - [![(ISC)²](https://img.shields.io/badge/-(ISC)²%20Certified%20Information%20Systems%20Security%20Professional%20(CISSP)-green?logo=security&logoColor=white)](https://www.isc2.org/Certifications/CISSP)  
-  *Issued by (ISC)² | January 2021*
-  
-- [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Design%20Professional%20(CWDP)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwdp)  
-  *Issued by CWNP | October 2023 - October 2026*  
-  *Credential ID: 795841*
+  *Issued by (ISC)² | January 2021*  
+  *Core Competency: Cybersecurity, Information Security, Risk Management*
 
 - [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Security%20Professional%20(CWSP)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwsp)  
   *Issued by CWNP | September 2023 - September 2026*  
+  *Core Competency: Wireless Security, Network Security, Cybersecurity*  
+  *Credential ID: 795841*
+
+- [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Design%20Professional%20(CWDP)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwdp)  
+  *Issued by CWNP | October 2023 - October 2026*  
+  *Core Competency: Wireless Network Design, Project Plans, Wi-Fi*  
   *Credential ID: 795841*
 
 - [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Network%20Administrator%20(CWNA)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwna)  
   *Issued by CWNP | January 2023 - September 2026*  
+  *Core Competency: Wi-Fi, Wireless Technologies, Network Administration*  
   *Credential ID: 795841*
-  
-- [![LinkedIn](https://img.shields.io/badge/-Deep%20Dive%20into%20Open--Source%20Intelligence-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
-  *Issued by LinkedIn | April 2024*
-
-- [![LinkedIn](https://img.shields.io/badge/-Learning%20Cloud%20Computing:%20Core%20Concepts-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
-  *Issued by LinkedIn | April 2024*
 
 - [![LinkedIn](https://img.shields.io/badge/-Learning%20Threat%20Intelligence-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
-  *Issued by LinkedIn | April 2024*
+  *Issued by LinkedIn | April 2024*  
+  *Core Competency: Threat Intelligence, Cybersecurity Strategy*
+
+- [![LinkedIn](https://img.shields.io/badge/-Deep%20Dive%20into%20Open--Source%20Intelligence-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
+  *Issued by LinkedIn | April 2024*  
+  *Core Competency: Open-Source Intelligence (OSINT)*
+
+- [![LinkedIn](https://img.shields.io/badge/-Learning%20Cloud%20Computing:%20Core%20Concepts-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
+  *Issued by LinkedIn | April 2024*  
+  *Core Competency: Cloud Computing Fundamentals*
 
 - [![Cisco](https://img.shields.io/badge/-Cisco%20Certified%20Network%20Professional%20(CCNP)-00599C?logo=cisco&logoColor=white)](https://www.cisco.com/)  
-  *Issued by Cisco | January 2002 - January 2015*
+  *Issued by Cisco | January 2002 - January 2015*  
+  *Core Competency: Cisco Networking, Network Administration*
 
 - [![Microsoft](https://img.shields.io/badge/-Microsoft%20Certified%20Systems%20Engineer:%20Windows%202000%20Server%20(MCSE)-0078D4?logo=microsoft&logoColor=white)](https://www.microsoft.com/)  
-  *Issued by Microsoft | January 2000 - January 2009*
+  *Issued by Microsoft | January 2000 - January 2009*  
+  *Core Competency: Windows Server, Systems Engineering*
 
 
 ---
