@@ -1,6 +1,46 @@
 # Kris Armstrong, CISSP
 ## Senior Systems Engineer
 
+### 🏅 **Licenses & Certifications**
+
+- **[Deep Dive into Open-Source Intelligence](https://www.linkedin.com/learning/)**  
+  *Issued by LinkedIn | April 2024*  
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+
+- **[Learning Cloud Computing: Core Concepts](https://www.linkedin.com/learning/)**  
+  *Issued by LinkedIn | April 2024*  
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+
+- **[Learning Threat Intelligence](https://www.linkedin.com/learning/)**  
+  *Issued by LinkedIn | April 2024*  
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+
+- **[Certified Wireless Design Professional (CWDP)](https://www.cwnp.com/certifications/cwdp)**  
+  *Issued by CWNP | October 2023 - October 2026*  
+  *Credential ID: 795841*  
+  ![CWNP](https://img.shields.io/badge/-CWNP-blue?logo=cisco&logoColor=white)
+
+- **[Certified Wireless Security Professional (CWSP)](https://www.cwnp.com/certifications/cwsp)**  
+  *Issued by CWNP | September 2023 - September 2026*  
+  *Credential ID: 795841*  
+  ![CWNP](https://img.shields.io/badge/-CWNP-blue?logo=cisco&logoColor=white)
+
+- **[Certified Wireless Network Administrator (CWNA)](https://www.cwnp.com/certifications/cwna)**  
+  *Issued by CWNP | January 2023 - September 2026*  
+  *Credential ID: 795841*  
+  ![CWNP](https://img.shields.io/badge/-CWNP-blue?logo=cisco&logoColor=white)
+
+- **[(ISC)² Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)**  
+  *Issued by (ISC)² | January 2021*  
+  ![CISSP](https://img.shields.io/badge/-CISSP-green?logo=security&logoColor=white)
+
+- **[Cisco Certified Network Professional (CCNP)](https://www.cisco.com/)**  
+  *Issued by Cisco | January 2002 - January 2015*  
+  ![Cisco](https://img.shields.io/badge/-Cisco-00599C?logo=cisco&logoColor=white)
+
+- **[Microsoft Certified Systems Engineer: Windows 2000 Server (MCSE)](https://www.microsoft.com)**  
+  *Issued by Microsoft | January 2000 - January 2009*  
+  ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?logo=microsoft&logoColor=white)
 ### Python Projects
 [![Python-Projects](https://img.shields.io/badge/-My_Python_Projects-000?&logo=Python)](https://github.com/krisarmstrong?tab=repositories)
 
@@ -42,6 +82,8 @@
 
 ### Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisarmstrong&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -65,3 +107,4 @@
 ### GitHub Stats
 
 [![Kris Armstrong GitHub stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=dark))]
+
