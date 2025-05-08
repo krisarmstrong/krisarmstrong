@@ -1,105 +1,90 @@
-# **Kris Armstrong, CISSP**  
-## Senior Systems Engineer  
+# Kris Armstrong, CISSP
+## Senior Systems Engineer
 
 ---
 
 ### 👋 **About Me**
+I'm **Kris Armstrong**, a CISSP-certified Senior Systems Engineer specializing in **cybersecurity**, **network design**, and **Python development**.
 
-Hello! I'm **Kris Armstrong**, a highly experienced **Senior Systems Engineer** with a passion for **cybersecurity**, **network design**, and **Python development**. With certifications like **CISSP**, **CWDP**, and **CWSP**, I specialize in building secure, scalable, and innovative networking solutions.
-
----
-
-🌟 **What I Do:**
-- 🛡️ Design and implement **advanced network systems** with a focus on **security** and **efficiency**.
-- 🐍 Develop **Python-based tools** to solve real-world challenges and automate processes.
-- 🤝 Mentor and guide aspiring professionals in **cybersecurity** and **networking**.
+- 🛡️ Build secure, scalable network systems.
+- 🐍 Create Python tools for automation and problem-solving.
+- 🤝 Mentor aspiring cybersecurity and networking professionals.
 
 ---
 
-### 📡 **Follow Me**
-[![Gmail Badge](https://img.shields.io/badge/-G--Mail-red?style=flat&logo=gmail&labelColor=white&link=mailto:kris.armstrong@gmail.com)](mailto:kris.armstrong@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/kris-armstrong-cissp/)  
-[![YouTube](https://img.shields.io/youtube/channel/views/UCGplG9LjItnQ4S6wITgdJ7A?style=social)](https://www.youtube.com/channel/UCGplG9LjItnQ4S6wITgdJ7A)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/krisarmstrong)](https://github.com/krisarmstrong)
+### 📡 **Connect with Me**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kris-armstrong-cissp/)
+- 📹 [YouTube](https://www.youtube.com/channel/UCGplG9LjItnQ4S6wITgdJ7A)
+- 💻 [GitHub](https://github.com/krisarmstrong)
 
 ---
 
 ### 🏅 **Licenses & Certifications**
 
-- [![(ISC)²](https://img.shields.io/badge/-(ISC)²%20Certified%20Information%20Systems%20Security%20Professional%20(CISSP)-green?logo=security&logoColor=white)](https://www.isc2.org/Certifications/CISSP)  
-  *Issued by (ISC)² | January 2021*  
-  *Core Competency: Cybersecurity, Information Security, Risk Management*
+#### Cybersecurity
+- **CISSP** (ISC)² | Jan 2021
+  *Core: Cybersecurity, Risk Management*
+  [![CISSP](https://img.shields.io/badge/-(ISC)²%20CISSP-green?logo=security&logoColor=white)](https://www.isc2.org/Certifications/CISSP)
 
-- [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Security%20Professional%20(CWSP)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwsp)  
-  *Issued by CWNP | September 2023 - September 2026*  
-  *Core Competency: Wireless Security, Network Security, Cybersecurity*  
-  *Credential ID: 795841*
+#### Wireless Networking (CWNP)
+- **CWSP** | Sep 2023 - Sep 2026 | *Credential ID: 795841*
+  *Core: Wireless Security*
+  [![CWSP](https://img.shields.io/badge/-CWSP-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwsp)
+- **CWDP** | Oct 2023 - Oct 2026 | *Credential ID: 795841*
+  *Core: Wireless Network Design*
+  [![CWDP](https://img.shields.io/badge/-CWDP-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwdp)
+- **CWNA** | Jan 2023 - Sep 2026 | *Credential ID: 795841*
+  *Core: Wi-Fi, Network Administration*
+  [![CWNA](https://img.shields.io/badge/-CWNA-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwna)
 
-- [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Design%20Professional%20(CWDP)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwdp)  
-  *Issued by CWNP | October 2023 - October 2026*  
-  *Core Competency: Wireless Network Design, Project Plans, Wi-Fi*  
-  *Credential ID: 795841*
+#### Other
+- **Learning Threat Intelligence** | LinkedIn | Apr 2024
+  *Core: Threat Intelligence*
+  [![Threat Intelligence](https://img.shields.io/badge/-Threat%20Intelligence-0077B5?logo=linkedin&logoColor=white)]()
+- **Deep Dive into OSINT** | LinkedIn | Apr 2024
+  *Core: Open-Source Intelligence*
+  [![OSINT](https://img.shields.io/badge/-OSINT-0077B5?logo=linkedin&logoColor=white)]()
+- **Cloud Computing: Core Concepts** | LinkedIn | Apr 2024
+  *Core: Cloud Computing*
+  [![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-0077B5?logo=linkedin&logoColor=white)]()
 
-- [![CWNP](https://img.shields.io/badge/-Certified%20Wireless%20Network%20Administrator%20(CWNA)-00599C?logo=cisco&logoColor=white)](https://www.cwnp.com/certifications/cwna)  
-  *Issued by CWNP | January 2023 - September 2026*  
-  *Core Competency: Wi-Fi, Wireless Technologies, Network Administration*  
-  *Credential ID: 795841*
-
-- [![LinkedIn](https://img.shields.io/badge/-Learning%20Threat%20Intelligence-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
-  *Issued by LinkedIn | April 2024*  
-  *Core Competency: Threat Intelligence, Cybersecurity Strategy*
-
-- [![LinkedIn](https://img.shields.io/badge/-Deep%20Dive%20into%20Open--Source%20Intelligence-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
-  *Issued by LinkedIn | April 2024*  
-  *Core Competency: Open-Source Intelligence (OSINT)*
-
-- [![LinkedIn](https://img.shields.io/badge/-Learning%20Cloud%20Computing:%20Core%20Concepts-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/)  
-  *Issued by LinkedIn | April 2024*  
-  *Core Competency: Cloud Computing Fundamentals*
-
-- [![Cisco](https://img.shields.io/badge/-Cisco%20Certified%20Network%20Professional%20(CCNP)-00599C?logo=cisco&logoColor=white)](https://www.cisco.com/)  
-  *Issued by Cisco | January 2002 - January 2015*  
-  *Core Competency: Cisco Networking, Network Administration*
-
-- [![Microsoft](https://img.shields.io/badge/-Microsoft%20Certified%20Systems%20Engineer:%20Windows%202000%20Server%20(MCSE)-0078D4?logo=microsoft&logoColor=white)](https://www.microsoft.com/)  
-  *Issued by Microsoft | January 2000 - January 2009*  
-  *Core Competency: Windows Server, Systems Engineering*
-
+#### Previously Held
+- **CCNP** | Cisco | 2002-2015
+  *Core: Cisco Networking*
+  [![CCNP](https://img.shields.io/badge/-CCNP-00599C?logo=cisco&logoColor=white)](https://www.cisco.com/)
+- **MCSE** | Microsoft | 2000-2009
+  *Core: Windows Server*
+  [![MCSE](https://img.shields.io/badge/-MCSE-0078D4?logo=microsoft&logoColor=white)](https://www.microsoft.com/)
 
 ---
 
 ### 🔐 **Cybersecurity Projects**
-
-- [🩸 **Heartbleed**](https://github.com/adamalston/Heartbleed)  
-  *A project exploring the Heartbleed vulnerability in OpenSSL.*
-
-- [🌊 **SYN Flood**](https://github.com/adamalston/SYN-Flood)  
-  *Demonstrates how SYN Flood attacks exploit weaknesses in TCP.*
-
-- [🗂 **Packet Sniffing & Spoofing**](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)  
-  *A tool for packet analysis and manipulation.*
-
-- [💉 **SQL Injection**](https://github.com/adamalston/SQL-Injection)  
-  *Simulates SQL injection attacks and their impacts.*
+- [🩸 **Heartbleed**](https://github.com/krisarmstrong/Heartbleed)
+  *Analyzed OpenSSL's Heartbleed vulnerability using Python to demonstrate exploit risks.*
+- [🌊 **SYN Flood**](https://github.com/krisarmstrong/SYN-Flood)
+  *Built a Python-based tool to simulate TCP SYN Flood attacks and test network defenses.*
+- [🗂 **Packet Sniffing & Spoofing**](https://github.com/krisarmstrong/Packet-Sniffing-and-Spoofing)
+  *Developed a packet analysis tool using Scapy for network monitoring and spoofing.*
+- [💉 **SQL Injection**](https://github.com/krisarmstrong/SQL-Injection)
+  *Created a demo to showcase SQL injection vulnerabilities and mitigation strategies.*
 
 ---
 
 ### 💻 **Skills & Tools**
+- **Languages**: Python (Expert: Automation, Cybersecurity Tools), Java (Proficient), C (Familiar), SQL (Proficient)
+- **Networking**: Cisco (Expert: Network Design), Aruba (Proficient), Juniper (Proficient)
+- **Operating Systems**: macOS, Ubuntu, Windows (Expert: System Administration)
+- **Development Tools**: PyCharm, VS Code (Expert: Development Environments)
 
-**Operating Systems:**  
-![macOS](https://img.shields.io/badge/macOS-292e33?style=flat&logo=apple&logoColor=ffffff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=blue)
-
-**Networking:**  
-![Cisco](https://img.shields.io/badge/Cisco-000?style=flat&logo=cisco) ![Aruba Networks](https://img.shields.io/badge/Aruba-000?style=flat&logo=HP) ![Juniper Networks](https://img.shields.io/badge/Juniper-000?style=flat&logo=junipernetworks)
-
-**Development Tools:**  
-![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat&logo=JetBrains) ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![C](https://img.shields.io/badge/-C-000?&logo=C) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![macOS](https://img.shields.io/badge/macOS-292e33?style=flat&logo=apple&logoColor=ffffff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=blue) ![Cisco](https://img.shields.io/badge/Cisco-000?style=flat&logo=cisco) ![Aruba](https://img.shields.io/badge/Aruba-000?style=flat&logo=HP) ![Juniper](https://img.shields.io/badge/Juniper-000?style=flat&logo=junipernetworks) ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat&logo=JetBrains) ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)
 
 ---
 
 ### 📈 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krisarmstrong&layout=compact&theme=dark)
 
-[![Kris Armstrong GitHub stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=dark)](https://github.com/krisarmstrong)
+---
+
+### 🚀 **Let’s Connect!**
+Interested in **cybersecurity**, **networking**, or **Python projects**? Contact [LinkedIn](https://www.linkedin.com/in/kris-armstrong-cissp/) to collaborate or discuss ideas!
