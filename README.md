@@ -9,6 +9,7 @@ I'm **Kris Armstrong**, a CISSP-certified Senior Systems Engineer specializing i
 - 🛡️ Build secure, scalable network systems.
 - 🐍 Create Python tools for automation and problem-solving.
 - 🤝 Mentor aspiring cybersecurity and networking professionals.
+- 💡 *Fun Fact*: I’m passionate about open-source contributions and enjoy tinkering with IoT devices in my spare time.
 
 ---
 
@@ -40,20 +41,17 @@ I'm **Kris Armstrong**, a CISSP-certified Senior Systems Engineer specializing i
 #### Other
 - **Learning Threat Intelligence** | LinkedIn | Apr 2024
   *Core: Threat Intelligence*
-  [![Threat Intelligence](https://img.shields.io/badge/-Threat%20Intelligence-0077B5?logo=linkedin&logoColor=white)]()
 - **Deep Dive into OSINT** | LinkedIn | Apr 2024
   *Core: Open-Source Intelligence*
-  [![OSINT](https://img.shields.io/badge/-OSINT-0077B5?logo=linkedin&logoColor=white)]()
 - **Cloud Computing: Core Concepts** | LinkedIn | Apr 2024
   *Core: Cloud Computing*
-  [![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-0077B5?logo=linkedin&logoColor=white)]()
 
 #### Previously Held
 - **CCNP** | Cisco | 2002-2015
-  *Core: Cisco Networking*
+  *Core: Cisco Networking (Foundational expertise in network design)*
   [![CCNP](https://img.shields.io/badge/-CCNP-00599C?logo=cisco&logoColor=white)](https://www.cisco.com/)
 - **MCSE** | Microsoft | 2000-2009
-  *Core: Windows Server*
+  *Core: Windows Server (Early systems engineering experience)*
   [![MCSE](https://img.shields.io/badge/-MCSE-0078D4?logo=microsoft&logoColor=white)](https://www.microsoft.com/)
 
 ---
@@ -72,19 +70,21 @@ I'm **Kris Armstrong**, a CISSP-certified Senior Systems Engineer specializing i
 
 ### 💻 **Skills & Tools**
 - **Languages**: Python (Expert: Automation, Cybersecurity Tools), Java (Proficient), C (Familiar), SQL (Proficient)
-- **Networking**: Cisco (Expert: Network Design), Aruba (Proficient), Juniper (Proficient)
+- **Networking**: Cisco (Expert: Network Design), Aruba Networks (Proficient), Juniper Networks (Proficient)
 - **Operating Systems**: macOS, Ubuntu, Windows (Expert: System Administration)
 - **Development Tools**: PyCharm, VS Code (Expert: Development Environments)
 
-![macOS](https://img.shields.io/badge/macOS-292e33?style=flat&logo=apple&logoColor=ffffff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=blue) ![Cisco](https://img.shields.io/badge/Cisco-000?style=flat&logo=cisco) ![Aruba](https://img.shields.io/badge/Aruba-000?style=flat&logo=HP) ![Juniper](https://img.shields.io/badge/Juniper-000?style=flat&logo=junipernetworks) ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat&logo=JetBrains) ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)
+![macOS](https://img.shields.io/badge/macOS-292e33?style=flat&logo=apple&logoColor=ffffff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows&logoColor=blue) ![Cisco](https://img.shields.io/badge/Cisco-000?style=flat&logo=cisco) ![Aruba Networks](https://img.shields.io/badge/Aruba%20Networks-000?style=flat&logo=HP) ![Juniper Networks](https://img.shields.io/badge/Juniper%20Networks-000?style=flat&logo=junipernetworks) ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat&logo=JetBrains) ![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)
 
 ---
 
 ### 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krisarmstrong&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisarmstrong&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krisarmstrong&layout=compact&theme=radical)
 
 ---
 
 ### 🚀 **Let’s Connect!**
 Interested in **cybersecurity**, **networking**, or **Python projects**? Contact [LinkedIn](https://www.linkedin.com/in/kris-armstrong-cissp/) to collaborate or discuss ideas!
+
+**Tags**: #Cybersecurity #NetworkSecurity #Python #CISSP #WirelessNetworking
